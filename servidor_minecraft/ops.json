@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "916e8d14-191d-4fa2-a440-46472b77fa20",
+    "name": "Winkol",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
