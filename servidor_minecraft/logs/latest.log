@@ -258,3 +258,16 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18:16:15] [Server thread/INFO]: [Winkol007: Stopped tick profiling after 258.10 seconds and 5163 ticks (20.00 ticks per second)]
 [18:16:24] [Server thread/INFO]: Winkol007 lost connection: Disconnected
 [18:16:24] [Server thread/INFO]: Winkol007 left the game
+[18:18:20] [Server thread/INFO]: Stopping the server
+[18:18:20] [Server thread/INFO]: Stopping server
+[18:18:20] [Server thread/INFO]: Saving players
+[18:18:20] [Server thread/INFO]: Saving worlds
+[18:18:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:18:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:18:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[18:18:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:18:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:18:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:18:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[18:18:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:18:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
